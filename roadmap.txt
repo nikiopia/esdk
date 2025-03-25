@@ -1,0 +1,22 @@
+Welcome!  This is my Embedded Systems Development Kit (ESDK) project roadmap!
+
+===== What is this? =====
+> ESDK is my attempt at making a general and highly flexible PCB learner's kit for 
+  embedded microcontrollers.
+> Simplicity and maximum flexibility is the goal with what is probably a massively
+  over-engineered PCB for what is needed xD
+
+===== Goals =====
+> Cost <= 100 USD
+> Tiered challenges:
+    - Base
+        1 - I2C Intro - Communicate with LEDs via an I2C controller
+        2 - Interrupts - Process real-time events effectively
+    - Middle
+        1 - DIY Serial - Software bit-banging serial data to a shift register
+    - Upper
+        1 - DIY I2C - Custom hardware driver
+
+===== Revision History =====
+Date        Type        Description
+2025-03-24  General     Repository created, first roadmap published
